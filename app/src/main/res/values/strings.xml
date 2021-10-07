@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Melissa</string>
+    <string name="play">PLAY</string>
+    <string name="badBoys">BAD BOYS</string>
+    <string name="messageDialog">ВЫ ХОТИТЕ ПОСМОТРЕТЬ ФИЛЬМ</string>
+    <string name="yes">ДА</string>
+    <string name="no">НЕТ</string>
+    <string name="close">ЗАКРЫТЬ</string>
+    <string name="actionPositive">ПРИЯТНОГО ПРОСМОТРА</string>
+    <string name="actionNeutral">ВЫ НИЧЕГО НЕ ВЫБРАЛИ</string>
+    <string name="actionNegative">ВЫ ОТКАЗАЛИСЬ ОТ ПРОСМОТРА</string>
+</resources>
